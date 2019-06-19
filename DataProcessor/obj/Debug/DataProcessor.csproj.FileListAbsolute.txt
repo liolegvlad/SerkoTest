@@ -1,0 +1,10 @@
+D:\!Tests\Serko\SerkoTestApp\DataProcessor\bin\Debug\DataProcessor.dll
+D:\!Tests\Serko\SerkoTestApp\DataProcessor\bin\Debug\DataProcessor.pdb
+D:\!Tests\Serko\SerkoTestApp\DataProcessor\obj\Debug\DataProcessor.csprojAssemblyReference.cache
+D:\!Tests\Serko\SerkoTestApp\DataProcessor\obj\Debug\DataProcessor.csproj.CoreCompileInputs.cache
+D:\!Tests\Serko\SerkoTestApp\DataProcessor\obj\Debug\DataProcessor.dll
+D:\!Tests\Serko\SerkoTestApp\DataProcessor\obj\Debug\DataProcessor.pdb
+D:\!Tests\Serko\2013\SerkoTest\DataProcessor\bin\Debug\DataProcessor.dll
+D:\!Tests\Serko\2013\SerkoTest\DataProcessor\bin\Debug\DataProcessor.pdb
+D:\!Tests\Serko\2013\SerkoTest\DataProcessor\obj\Debug\DataProcessor.dll
+D:\!Tests\Serko\2013\SerkoTest\DataProcessor\obj\Debug\DataProcessor.pdb
